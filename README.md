@@ -1,4 +1,3 @@
-Sure! Here's a redesigned version of your GitHub profile README with a more modern and clean look:
 
 ---
 
@@ -79,8 +78,3 @@ Hello! I'm Sudhan, a passionate student pursuing Artificial Intelligence and Dat
 
 ---
 
-*Proudly created with GPRM (https://gprm.itsvg.in)*
-
----
-
-This style uses a more modern and clean look with flat-square badges and a different theme for the stats.
