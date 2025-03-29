@@ -7,7 +7,9 @@ Welcome to my space! I'm Sudhan, an AI & Data Science enthusiast, constantly exp
 ## 🌌 Connect with Me  
 🔗 [Instagram](https://instagram.com/hhs_7304) | [LinkedIn](https://linkedin.com/in/hariharasudhan) | [X](https://x.com/hhs_7304)  
 
----  
+---  ### 🚀 Live Coding Demo  
+![Coding GIF](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
+
 
 ## ⚡ Tech Stack  
 **Languages:**  
