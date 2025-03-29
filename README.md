@@ -1,56 +1,46 @@
-<!-- 🚀 WELCOME TO MY GITHUB UNIVERSE -->
-# 🌌 Sudhan's Digital Realm 🚀
+# 🚀 Sudhan's Dev Universe  
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+Welcome to my space! I'm Sudhan, an AI & Data Science enthusiast, constantly exploring and building cutting-edge solutions.  
 
----
+---  
 
-## 👋 Hey there, fellow traveler!  
-I'm **Sudhan**, an explorer in the ever-expanding cosmos of **Artificial Intelligence & Data Science**. My mission? To craft impactful projects, embrace futuristic tech, and push the boundaries of creativity. 
+## 🌌 Connect with Me  
+🔗 [Instagram](https://instagram.com/hhs_7304) | [LinkedIn](https://linkedin.com/in/hariharasudhan) | [X](https://x.com/hhs_7304)  
 
-💡 Always curious. Always building. Always learning.
+---  
 
----
+## ⚡ Tech Stack  
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-## 🔥 Tech Arsenal  
-🎯 **Languages & Scripting:**  
-🔹 `Python` 🔹 `Java` 🔹 `JavaScript` 🔹 `C++` 🔹 `R` 🔹 `TypeScript`  
+**Databases & Cloud:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-📡 **Databases:**  
-🔹 `MongoDB` 🔹 `MySQL` 🔹 `Teradata` 🔹 `SQL Server`
+**Frameworks & Tools:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
-🚀 **Frameworks & Libraries:**  
-🔹 `TensorFlow` 🔹 `Pandas` 🔹 `NumPy` 🔹 `Matplotlib` 🔹 `React` 🔹 `Node.js` 🔹 `Bootstrap`
+---  
 
-🛠 **Tools & Platforms:**  
-🔹 `GitHub` 🔹 `GitLab` 🔹 `Kubernetes` 🔹 `AWS` 🔹 `Azure` 🔹 `Google Cloud` 🔹 `Raspberry Pi`
+## 📊 GitHub Insights  
+<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=Hhs7304&show_icons=true&theme=tokyonight&hide_border=true" width="49%">  
+<img src="https://streak-stats.demolab.com/?user=Hhs7304&theme=tokyonight&hide_border=true" width="49%">  
+</div>  
 
----
+---  
 
-## 🌍 Connect with Me  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hhs_7304)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharasudhan)  
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hhs_7304)  
+## 🛠️ Projects & Contributions  
+🚀 **Algorithmic Insider Trading Detection**  
+🌱 **Sustainable Investment Optimizer**  
+🔍 **AI-Powered Code Analyzer**  
 
----
+📌 Explore more at [My GitHub](https://github.com/Hhs7304)  
 
-## 🎯 GitHub Stats  
-📊 **The Code Cosmos:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hhs7304&show_icons=true&theme=midnight-purple&hide_border=true)
+---  
 
-🔥 **Commit Streak:**  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hhs7304&theme=midnight-purple&hide_border=true)
+## 🎯 Dev Philosophy  
+📜 "Code. Break. Fix. Learn. Repeat."  
 
-📌 **Top Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hhs7304&layout=compact&theme=midnight-purple&hide_border=true)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
----
-
-## ⚡ Fun Fact  
-🎲 I believe in debugging at **3 AM**, because that’s when bugs reveal their true form. 🦠
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Hhs7304&icon=2&color=3)
-
----
-
-💬 Feel free to drop a message, collaborate, or just say hi! 🚀
+🌟 Always open to collaboration and innovation! Let’s build something incredible. 🚀
