@@ -8,6 +8,10 @@ Welcome to my space! I'm Sudhan, an AI & Data Science enthusiast, constantly exp
 🔗 [Instagram](https://instagram.com/hhs_7304) | [LinkedIn](https://linkedin.com/in/hariharasudhan) | [X](https://x.com/hhs_7304)  
 
 
+## 🎥 My Favorite Coding Video
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 
 ## ⚡ Tech Stack  
 **Languages:**  
